@@ -1,0 +1,451 @@
+{
+ "brand-kit": [
+  {
+   "path": "brand-kit/base64-assets/argong_logo.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/argong_logo.png",
+   "bytes": 175440
+  },
+  {
+   "path": "brand-kit/base64-assets/bansukpet2.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/bansukpet2.png",
+   "bytes": 82521
+  },
+  {
+   "path": "brand-kit/base64-assets/carrot.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/carrot.png",
+   "bytes": 375419
+  },
+  {
+   "path": "brand-kit/base64-assets/chest.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/chest.png",
+   "bytes": 523037
+  },
+  {
+   "path": "brand-kit/base64-assets/cooking.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/cooking.png",
+   "bytes": 60144
+  },
+  {
+   "path": "brand-kit/base64-assets/cooking2.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/cooking2.png",
+   "bytes": 38414
+  },
+  {
+   "path": "brand-kit/base64-assets/dnsoft_gray.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/dnsoft_gray.png",
+   "bytes": 24755
+  },
+  {
+   "path": "brand-kit/base64-assets/dnsoft_white.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/dnsoft_white.png",
+   "bytes": 22630
+  },
+  {
+   "path": "brand-kit/base64-assets/hoshi_tamtam.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/hoshi_tamtam.png",
+   "bytes": 183055
+  },
+  {
+   "path": "brand-kit/base64-assets/hoshi_tamtam_ingame.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/hoshi_tamtam_ingame.png",
+   "bytes": 647421
+  },
+  {
+   "path": "brand-kit/base64-assets/icon_bookgold.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/icon_bookgold.png",
+   "bytes": 51731
+  },
+  {
+   "path": "brand-kit/base64-assets/icon_gold.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/icon_gold.png",
+   "bytes": 103679
+  },
+  {
+   "path": "brand-kit/base64-assets/icon_obi.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/icon_obi.png",
+   "bytes": 110739
+  },
+  {
+   "path": "brand-kit/base64-assets/icon_stone_blue.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/icon_stone_blue.png",
+   "bytes": 161223
+  },
+  {
+   "path": "brand-kit/base64-assets/icon_stone_green.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/icon_stone_green.png",
+   "bytes": 186378
+  },
+  {
+   "path": "brand-kit/base64-assets/icon_stone_pink.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/icon_stone_pink.png",
+   "bytes": 167207
+  },
+  {
+   "path": "brand-kit/base64-assets/icon_stone_purple.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/icon_stone_purple.png",
+   "bytes": 160319
+  },
+  {
+   "path": "brand-kit/base64-assets/magical_player.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/magical_player.png",
+   "bytes": 362200
+  },
+  {
+   "path": "brand-kit/base64-assets/mission_icon_moya.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/mission_icon_moya.png",
+   "bytes": 121804
+  },
+  {
+   "path": "brand-kit/base64-assets/mission_icon_vesta.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/mission_icon_vesta.png",
+   "bytes": 65831
+  },
+  {
+   "path": "brand-kit/base64-assets/moyamoya_family.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/moyamoya_family.png",
+   "bytes": 340305
+  },
+  {
+   "path": "brand-kit/base64-assets/obi.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/obi.png",
+   "bytes": 304836
+  },
+  {
+   "path": "brand-kit/base64-assets/planet.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/planet.png",
+   "bytes": 675660
+  },
+  {
+   "path": "brand-kit/base64-assets/player.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/player.png",
+   "bytes": 299179
+  },
+  {
+   "path": "brand-kit/base64-assets/radish.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/radish.png",
+   "bytes": 98177
+  },
+  {
+   "path": "brand-kit/base64-assets/radish3.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/radish3.png",
+   "bytes": 366477
+  },
+  {
+   "path": "brand-kit/base64-assets/radish4.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/radish4.png",
+   "bytes": 363535
+  },
+  {
+   "path": "brand-kit/base64-assets/radish_hello.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/radish_hello.png",
+   "bytes": 110347
+  },
+  {
+   "path": "brand-kit/base64-assets/radish_speaking.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/radish_speaking.png",
+   "bytes": 120549
+  },
+  {
+   "path": "brand-kit/base64-assets/radish_surprise.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/radish_surprise.png",
+   "bytes": 81543
+  },
+  {
+   "path": "brand-kit/base64-assets/radish_worry.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/radish_worry.png",
+   "bytes": 93759
+  },
+  {
+   "path": "brand-kit/base64-assets/running_player1.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/running_player1.png",
+   "bytes": 330708
+  },
+  {
+   "path": "brand-kit/base64-assets/running_player2.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/running_player2.png",
+   "bytes": 329634
+  },
+  {
+   "path": "brand-kit/base64-assets/running_player3.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/running_player3.png",
+   "bytes": 321354
+  },
+  {
+   "path": "brand-kit/base64-assets/running_player4.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/running_player4.png",
+   "bytes": 319793
+  },
+  {
+   "path": "brand-kit/base64-assets/running_player5.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/running_player5.png",
+   "bytes": 345918
+  },
+  {
+   "path": "brand-kit/base64-assets/running_player6.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/running_player6.png",
+   "bytes": 353095
+  },
+  {
+   "path": "brand-kit/base64-assets/sheep_player.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/sheep_player.png",
+   "bytes": 89870
+  },
+  {
+   "path": "brand-kit/base64-assets/specialshop_icon.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/specialshop_icon.png",
+   "bytes": 531961
+  },
+  {
+   "path": "brand-kit/base64-assets/starbi.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/starbi.png",
+   "bytes": 26099
+  },
+  {
+   "path": "brand-kit/base64-assets/starbi2.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/starbi2.png",
+   "bytes": 13623
+  },
+  {
+   "path": "brand-kit/base64-assets/teleport_dessert.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/teleport_dessert.png",
+   "bytes": 183373
+  },
+  {
+   "path": "brand-kit/base64-assets/teleport_vestar.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/teleport_vestar.png",
+   "bytes": 444665
+  },
+  {
+   "path": "brand-kit/base64-assets/title_eggpet.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/title_eggpet.png",
+   "bytes": 115921
+  },
+  {
+   "path": "brand-kit/base64-assets/title_tomy.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/title_tomy.png",
+   "bytes": 237540
+  },
+  {
+   "path": "brand-kit/base64-assets/tomy_check.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/tomy_check.png",
+   "bytes": 160901
+  },
+  {
+   "path": "brand-kit/base64-assets/tomy_cute.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/tomy_cute.png",
+   "bytes": 18197
+  },
+  {
+   "path": "brand-kit/base64-assets/tomy_cute2.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/tomy_cute2.png",
+   "bytes": 238512
+  },
+  {
+   "path": "brand-kit/base64-assets/tomy_magnify.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/tomy_magnify.png",
+   "bytes": 455519
+  },
+  {
+   "path": "brand-kit/base64-assets/tomy_sleepy.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/tomy_sleepy.png",
+   "bytes": 24895
+  },
+  {
+   "path": "brand-kit/base64-assets/tomy_study.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/tomy_study.png",
+   "bytes": 331579
+  },
+  {
+   "path": "brand-kit/base64-assets/tomy_thumb.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/tomy_thumb.png",
+   "bytes": 32698
+  },
+  {
+   "path": "brand-kit/base64-assets/tomy_wink.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/tomy_wink.png",
+   "bytes": 19773
+  },
+  {
+   "path": "brand-kit/base64-assets/tomy_wizard.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/tomy_wizard.png",
+   "bytes": 142378
+  },
+  {
+   "path": "brand-kit/base64-assets/tomy_wizard_front.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/tomy_wizard_front.png",
+   "bytes": 70016
+  },
+  {
+   "path": "brand-kit/base64-assets/vesta.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/vesta.png",
+   "bytes": 364161
+  },
+  {
+   "path": "brand-kit/base64-assets/vesta2.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/vesta2.png",
+   "bytes": 300295
+  },
+  {
+   "path": "brand-kit/base64-assets/vesta3.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/vesta3.png",
+   "bytes": 285878
+  },
+  {
+   "path": "brand-kit/base64-assets/vesta4.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/vesta4.png",
+   "bytes": 76542
+  },
+  {
+   "path": "brand-kit/base64-assets/vesta_study.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/vesta_study.png",
+   "bytes": 169024
+  },
+  {
+   "path": "brand-kit/base64-assets/vestar2.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/vestar2.png",
+   "bytes": 254117
+  },
+  {
+   "path": "brand-kit/base64-assets/villain_front.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/villain_front.png",
+   "bytes": 356272
+  },
+  {
+   "path": "brand-kit/base64-assets/villain_racing.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/villain_racing.png",
+   "bytes": 238759
+  },
+  {
+   "path": "brand-kit/base64-assets/villain_statue.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/villain_statue.png",
+   "bytes": 34245
+  },
+  {
+   "path": "brand-kit/base64-assets/villain_wizard.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/villain_wizard.png",
+   "bytes": 190483
+  },
+  {
+   "path": "brand-kit/base64-assets/villain_wizard_side.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/villain_wizard_side.png",
+   "bytes": 266298
+  },
+  {
+   "path": "brand-kit/base64-assets/whisper.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/whisper.png",
+   "bytes": 81494
+  },
+  {
+   "path": "brand-kit/base64-assets/whisper2.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/whisper2.png",
+   "bytes": 142902
+  },
+  {
+   "path": "brand-kit/base64-assets/whisper3.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit/base64-assets/whisper3.png",
+   "bytes": 304187
+  }
+ ],
+ "brand-kit-books": [
+  {
+   "path": "brand-kit-books/base64-assets/aibook_default.jpg",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/base64-assets/aibook_default.jpg",
+   "bytes": 28135
+  },
+  {
+   "path": "brand-kit-books/base64-assets/aibook_greeting.jpg",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/base64-assets/aibook_greeting.jpg",
+   "bytes": 29964
+  },
+  {
+   "path": "brand-kit-books/base64-assets/aibook_notice.jpg",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/base64-assets/aibook_notice.jpg",
+   "bytes": 34547
+  },
+  {
+   "path": "brand-kit-books/base64-assets/aibook_reading_blue.jpg",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/base64-assets/aibook_reading_blue.jpg",
+   "bytes": 32721
+  },
+  {
+   "path": "brand-kit-books/base64-assets/aibook_reading_red.jpg",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/base64-assets/aibook_reading_red.jpg",
+   "bytes": 28027
+  },
+  {
+   "path": "brand-kit-books/base64-assets/argong_books_logo.jpg",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/base64-assets/argong_books_logo.jpg",
+   "bytes": 21970
+  },
+  {
+   "path": "brand-kit-books/base64-assets/bg_library_exterior.jpg",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/base64-assets/bg_library_exterior.jpg",
+   "bytes": 195991
+  },
+  {
+   "path": "brand-kit-books/base64-assets/bg_library_interior.jpg",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/base64-assets/bg_library_interior.jpg",
+   "bytes": 252794
+  },
+  {
+   "path": "brand-kit-books/base64-assets/bg_pattern_yellow.jpg",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/base64-assets/bg_pattern_yellow.jpg",
+   "bytes": 50830
+  },
+  {
+   "path": "brand-kit-books/base64-assets/efuture_elibrary_logo.jpg",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/base64-assets/efuture_elibrary_logo.jpg",
+   "bytes": 17837
+  },
+  {
+   "path": "brand-kit-books/assets/logos/ArgongBooks_Logo.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/assets/logos/ArgongBooks_Logo.png",
+   "bytes": 21970
+  },
+  {
+   "path": "brand-kit-books/assets/logos/eFuture_eLibrary_Logo.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/assets/logos/eFuture_eLibrary_Logo.png",
+   "bytes": 17837
+  },
+  {
+   "path": "brand-kit-books/assets/backgrounds/Library_Exterior.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/assets/backgrounds/Library_Exterior.png",
+   "bytes": 195991
+  },
+  {
+   "path": "brand-kit-books/assets/backgrounds/Library_Interior.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/assets/backgrounds/Library_Interior.png",
+   "bytes": 252794
+  },
+  {
+   "path": "brand-kit-books/assets/backgrounds/Pattern_YellowBooks.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/assets/backgrounds/Pattern_YellowBooks.png",
+   "bytes": 50830
+  },
+  {
+   "path": "brand-kit-books/assets/characters/AIBook_Default.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/assets/characters/AIBook_Default.png",
+   "bytes": 28135
+  },
+  {
+   "path": "brand-kit-books/assets/characters/AIBook_Greeting.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/assets/characters/AIBook_Greeting.png",
+   "bytes": 29964
+  },
+  {
+   "path": "brand-kit-books/assets/characters/AIBook_Notice.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/assets/characters/AIBook_Notice.png",
+   "bytes": 34547
+  },
+  {
+   "path": "brand-kit-books/assets/characters/AIBook_Reading_Blue.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/assets/characters/AIBook_Reading_Blue.png",
+   "bytes": 32721
+  },
+  {
+   "path": "brand-kit-books/assets/characters/AIBook_Reading_Red.png",
+   "url": "https://raw.githubusercontent.com/dn-soft/argong-ai-skill-assets/main/brand-kit-books/assets/characters/AIBook_Reading_Red.png",
+   "bytes": 28027
+  }
+ ]
+}
